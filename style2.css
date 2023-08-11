@@ -1,0 +1,233 @@
+*{
+margin: 0;
+padding:0;
+
+}
+
+body { min-height: 100vh; max-width: 100%;max-block-size: 100%;
+    background-color: rgb(12, 0, 10);
+}
+
+header{ 
+    background-color: rgb(12, 0, 10);
+    height: 165px;
+    padding: 15px;
+    display: flex;
+    position:top;
+    
+}
+
+#slogan{
+    max-width: 100%;
+    width: 160px;
+    margin: 22px 30px 0px 45px;
+   
+}
+
+
+#NomeOf{
+    max-width: 100%;
+    width: 69%;
+    padding-top: 35px;
+    color:#f7eae7;
+    text-align: center;
+    font-size: 70px; 
+    font-family:"Lucida Handwriting", Arial, Helvetica, sans-serif;
+    text-shadow:1px 1px 1px #111111 ;
+}
+
+    #Menu a{
+    text-align: right;
+    font-size: 20px;
+    text-decoration:none;
+    color: rgba(250, 6, 6, 0.805);
+    margin-right: 10px;
+    padding: 3px;
+    
+}
+ 
+ ul{
+    list-style-type:none;
+    margin-right: 50px;
+    margin-left: 5px;
+    margin-top: 9px;
+
+}
+
+    #Menu a:hover{        
+    background-color: rgba(250, 6, 6, 0.805);
+    padding: 3px;
+    color: #111111;
+    border-radius: 5px;
+    }
+
+    .hr{
+    max-width: 100%;
+    color:  rgba(250, 6, 6, 0.805);
+    
+    }
+
+    #Principal{
+        max-width: 100%;
+        margin-top: color black;
+        margin-left: auto;
+        color: #f7eae7;
+        display:flex;
+
+        }
+
+
+.imagens{
+    max-width: 100%;
+    width: 150px;
+    border-radius: 40px;
+    border-color: #fafbfd;
+    margin: 10px; 
+    padding: 30px;
+}
+
+#duplo{
+    padding-left: 57px;
+}
+
+#LadoE{
+  max-width: 100%;
+  width: 40%;
+  background-color:  rgb(12, 0, 10);
+  padding-top: 30px;
+}
+
+#LadoD{
+   max-width: 100%;
+   width: 40%;
+   background-color:  rgb(12, 0, 10);
+   padding-top: 30px;
+   
+}
+
+#div3{
+    max-width: 100%;
+    text-align:justify;
+    width: 20%;
+    background-color:  rgb(12, 0, 10);
+    color:hwb(39 85% 3%);
+    font-size: 20px;
+    line-height: 25px;
+    margin-right: auto;
+    padding-top: 30px;  
+}
+
+
+#desc{
+    max-width: 100%;
+    display: flex;
+    align-items:center;
+    font-size: 18px;
+    text-align: center;
+    text-transform:capitalize;
+    
+}
+
+
+h2{
+max-width: 100%;
+color: hwb(39 21% 5%);
+text-shadow:1px 1px 1px #111111;
+}
+
+
+#FP,#EM {
+  max-width: 100%;
+  padding: 10px;
+  color:  rgba(250, 6, 6, 0.805);
+  font-style:oblique;
+  font-size:15px;
+  
+
+}
+
+#divf{
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    background-color: rgb(203, 169, 124);
+    margin:15px;
+
+    
+}
+
+
+#meuslinks{
+max-width: 35%;
+width: 35%;
+display: flex;
+color: rgb(93, 54, 2);
+font-size: 25px;
+background-color: rgb(203, 169, 124);
+}
+
+#qr{
+    max-width: 100%;
+    padding-top: 95px;
+    margin-left: 10px;
+
+}
+
+#contred{
+    max-width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: rgb(203, 169, 124);
+}
+
+#Coment{
+    max-width: 30%;
+    width: 30%;
+    text-align: center; 
+    font-size: 20px;
+    margin: 17px;
+    padding-left: 50px;
+    border-radius: 20px;
+    background-color: rgb(203, 169, 124);
+   
+}
+
+#Curi{
+    max-width: 35%;
+    width:35%;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: double;
+    line-height: 37px;
+    background-color: rgb(203, 169, 124);
+
+}
+
+#vt, #lnk:link {
+
+        color:rgb(245, 234, 213);
+        text-decoration: none;
+}
+
+#sec{
+text-align: center;
+max-width: 100%;
+}
+
+
+
+footer{   
+max-width: 100%;
+margin-top: 15px;
+background-color: rgb(93, 54, 2);
+min-height: 30px;
+text-align: center;
+font-size: 18px;
+color: aliceblue;
+padding: 5px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
