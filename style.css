@@ -55,10 +55,10 @@ header{
     
     font-size: 1.1rem;
     text-decoration:none;
-    color: rgba(250, 6, 6, 0.805);
-    margin-right: 0.62rem;
-    margin: left 0rem;
+    color: rgb(201, 7, 7);
+    margin-right: 0.62rem; 
     position: top;
+    padding: 0.18rem;
      
 }
  
@@ -71,7 +71,7 @@ header{
 }
 
     #Menu a:hover{        
-    background-color: rgba(250, 6, 6, 0.805);
+    background-color: rgb(201, 7, 7);
     padding: 0.18rem;
     color: #111111;
     border-radius: 0.31rem;
@@ -79,7 +79,7 @@ header{
 
     .hr{
     max-width: 100%;
-    color:  rgba(250, 6, 6, 0.805);
+    color: rgb(201, 7, 7);
     margin: 0;
 
    
